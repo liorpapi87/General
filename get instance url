@@ -1,0 +1,3 @@
+open developer console and run as  anonymous user and paste-->
+
+System.debug(URL.getSalesforceBaseUrl().toExternalForm());
